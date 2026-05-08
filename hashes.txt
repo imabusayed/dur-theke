@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dur Theke
+
+This log tracks the cryptographic history and versioning for the song **Dur Theke** (dur-theke).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:03:31.670371 | `v1` | `83daf12b4c79a7251bfac715672ec2e6b6855d57d6cf1cc3573cc81241021bcf` | `070af9c84517ceb0e5dd81a7a4dc3db0b6c09cd6a9d63d20002a74baa5afd787` | `2026-05-08_dur-theke-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
